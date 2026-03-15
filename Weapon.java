@@ -1,9 +1,9 @@
 public class Weapon {
-    string name;
+    String name;
     int damage;
 
     void showWeapon() {
-        system.out.println("Nama Senjata : " + name);
-        system.out.println("Damage       : " + damage);
+        System.out.println("Nama Senjata : " + name);
+        System.out.println("Damage       : " + damage);
     }
 }
